@@ -14,8 +14,8 @@ to get an dummy rating number.
 
 ## How users can get started with the project.
 
-1  open the project's terminal and run "npm install"
-2  then run "npm start"
+1.  open the project's terminal and run "npm install"
+2.  then run "npm start"
 
 
 ## App functionalities
