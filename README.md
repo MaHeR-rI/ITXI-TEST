@@ -8,6 +8,8 @@ retrieve information about his/her albums.
 should be login again .
 *  about the artist's rating i don't know on what is based (popularity does not worked with me), for that i Divided the popularity on random number "15" (popularity/15)
 to get an dummy rating number.
+*  usually adding styles applications using CSS Modules,CSS Modules are convenient for components that are placed in separate files, but this app is simple the style in 1 file app.css .
+*  Images that came from spotify have a different sizes, so i specified a max-height.
 
 
 ## How users can get started with the project.
@@ -22,7 +24,7 @@ to get an dummy rating number.
 -then he redirect to the search page.
 -when the user type in the search field the fetching will start 
 -choose one of the artists (by clicking to card) to redirect to his/her albums
--then you can select an album (by clicking to card) to redirect to the spotify web and listen
+-then you can select an album (by clicking to preview on spotify button) to redirect to the spotify web and listen
 -you can logout by clicking on logout button on the navbar
 
 
