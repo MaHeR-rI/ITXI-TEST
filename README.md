@@ -3,10 +3,10 @@
 ## basic Spotify application
 this app  let a user search for an artist to
 retrieve information about his/her albums.
-i used React js version 18.2.0 to build this app.
-I used useContext hook and make it a store for the user's token , the token will be expires after 1 hour , automatically the app logged out and the user
+ *i used React js version 18.2.0 to build this app.
+ *I used useContext hook and make it a store for the user's token , the token will be expires after 1 hour , automatically the app logged out and the user
 should be login again .
-about the artist's rating i don't know on what is based (popularity does not worked with me), for that i Divided the popularity on random number "15" (popularity/15)
+ *about the artist's rating i don't know on what is based (popularity does not worked with me), for that i Divided the popularity on random number "15" (popularity/15)
 to get an dummy rating number.
 
 
