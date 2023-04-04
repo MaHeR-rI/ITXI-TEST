@@ -63,7 +63,7 @@ const Search = () => {
                                 edit={false}
                                 isHalf={true}
                                 activeColor="#EFB64B"
-                                value={artist.popularity / 15}
+                                value={(artist.popularity / 100) * 5}
                             />
                         </div>
                     </div>
