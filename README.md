@@ -6,8 +6,6 @@ retrieve information about his/her albums.
 *  I used React js version 18.2.0 to build this app.
 *  I used useContext hook and make it a store for the user's token , the token will be expires after 1 hour , automatically the app logged out and the user
 should be login again .
-*  about the artist's rating i don't know on what is based (popularity does not worked with me), for that i Divided the popularity on random number "15" (popularity/15)
-to get an dummy rating number.
 *  usually adding styles applications using CSS Modules,CSS Modules are convenient for components that are placed in separate files, but this app is simple the style in 1 file app.css .
 *  Images that came from spotify have a different sizes, so i specified a max-height.
 
